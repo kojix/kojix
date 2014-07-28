@@ -11,3 +11,10 @@ Thumbs.db
 
 # NODE
 node_modules
+
+# Build
+public
+
+# logs
+logs
+*.log
